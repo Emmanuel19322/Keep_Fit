@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Keep Fit</string>
+    <string name="steps">Steps</string>
+    <string name="step_value">0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="completed_step">0</string>
+    <string name="target_step">0</string>
+    <string name="progress">0</string>
+    <string name="target">0</string>
+    <string name="users_">Users</string>
+    <string name="notifications_">Notifications</string>
+    <string name="enter_target_steps">enter target steps</string>
+    <string name="ability_">ability</string>
+    <string name="high_">high</string>
+    <string name="weather_notification_frequency">weather notification frequency</string>
+    <string name="set_home_location">set home location</string>
+    <string name="localization_">Localization</string>
+    <string name="motivation_">motivation</string>
+    <string name="low_">low</string>
+    <string name="high">high</string>
+    <string name="low">low</string>
+</resources>
